@@ -55,10 +55,10 @@ A modern, responsive web application for interacting with the KingYieldAggregato
 
 ## Live Demo
 
-**Testnet Demo:** [kingYieldAggreator](https://kingyieldaggregator.vercel.app/)
+**Testnet Demo:** [kingyieldaggregator.vercel.app](https://kingyieldaggregator.vercel.app/)
 
 **Network:** Base Sepolia Testnet  
-**Test Tokens:** Request testnet tokens in [Discord](#https://discord.gg/t7Wgs73z)
+**Test Tokens:** Request testnet tokens in [Discord](https://discord.gg/t7Wgs73z)
 
 ---
 

@@ -196,7 +196,7 @@ Smart contract repository: [KingYieldAggregator-Contracts](https://github.com/Bu
 #### 2. Get Test Tokens
 - Visit [Base Sepolia Faucet](https://www.coinbase.com/faucets/base-ethereum-goerli-faucet)
 - Request testnet ETH for gas
-- Request KYAUSD from [Discord](#https://discord.gg/t7Wgs73z)
+- Request KYAUSD in [Discord](https://discord.gg/t7Wgs73z)
 
 #### 3. Deposit Funds
 - Enter amount to deposit

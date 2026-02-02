@@ -15,7 +15,7 @@ A modern, responsive web application for interacting with the KingYieldAggregato
 
 - [Features](#features)
 - [Live Demo](#live-demo)
-- [Tech Stack](#tech-stack)
+- [Tech Stack](#-tech-stack)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Smart Contracts](#smart-contracts)

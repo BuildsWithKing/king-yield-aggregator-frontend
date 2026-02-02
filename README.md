@@ -13,17 +13,17 @@ A modern, responsive web application for interacting with the KingYieldAggregato
 
 ## Table of Contents
 
-- [Features](#-features)
-- [Live Demo](#-live-demo)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Project Structure](#-project-structure)
-- [Smart Contracts](#-smart-contracts)
-- [Usage Guide](#-usage-guide)
-- [Development](#-development)
-- [Deployment](#-deployment)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Features](#features)
+- [Live Demo](#live-demo)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Smart Contracts](#smart-contracts)
+- [Usage Guide](#usage-guide)
+- [Development](#development)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
@@ -55,7 +55,9 @@ A modern, responsive web application for interacting with the KingYieldAggregato
 
 ## Live Demo
 
-**Testnet Demo:** [kingyieldaggregator.vercel.app](https://kingyieldaggregator.vercel.app/)
+**Testnet Demo:** [kingyieldaggregator.vercel.app](https://kingyieldaggregator.vercel.app)
+
+**Video Demo:** [KingYieldAggregator's Full Video](https://www.loom.com/share/51421cc090e645dc955b498fe11d9183)
 
 **Network:** Base Sepolia Testnet  
 **Test Tokens:** Request testnet tokens in [Discord](https://discord.gg/t7Wgs73z)

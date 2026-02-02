@@ -171,9 +171,9 @@ The frontend interacts with 4 main smart contracts:
 ### Deployed Addresses (Base Sepolia)
 
 ```
-VaultCore:        0x1d0D871aC5F49415e48F74279f849b296509714b
-StrategyManager:  0x2c8E9b136143BF33BDa40865FfB6457F94E0816E
-Rebalancer:       0xa83ea1bAEFFDee6A193fB0136DCDFE3EF132759e
+VaultCore:        0xA9F97Fd2784d27fE09751C97181b80CD5CF110c5
+StrategyManager:  0x1E5435F1aCD56F0c8966889cdbF912296ED83db5
+Rebalancer:       0xb97Fc4ba38a80F5De1f17c6a590bEF2694Bb35A3
 Asset Token:      0xa20Fd06FA93802c9906e82d02C774aa0a4110E25
 ```
 
@@ -194,8 +194,8 @@ Smart contract repository: [KingYieldAggregator-Contracts](https://github.com/Bu
 - Ensure you're on Base Sepolia network
 
 #### 2. Get Test Tokens
-- Visit [Base Sepolia Faucet](https://www.coinbase.com/faucets/base-ethereum-goerli-faucet)
-- Request testnet ETH for gas
+- Visit [Faucet Trade](https://t.me/faucet_trade_bot)
+- Request base sepolia testnet ETH for gas
 - Request KYAUSD in [Discord](https://discord.gg/t7Wgs73z)
 
 #### 3. Deposit Funds

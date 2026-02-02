@@ -55,7 +55,7 @@ A modern, responsive web application for interacting with the KingYieldAggregato
 
 ## Live Demo
 
-**Testnet Demo:** [https://your-app.vercel.app](https://your-app.vercel.app)
+**Testnet Demo:** [kingYieldAggreator](https://kingyieldaggregator.vercel.app/)
 
 **Network:** Base Sepolia Testnet  
 **Test Tokens:** Request testnet tokens in [Discord](#https://discord.gg/t7Wgs73z)
@@ -322,7 +322,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- **GitHub Issues:** [Report bugs](https://github.com/BuildsWithKing/kingyieldaggregator-frontend/issues)
+- **GitHub Issues:** [Report bugs](https://github.com/BuildsWithKing/king-yield-aggregator-frontend/issues)
 - **Twitter:** [@BuildsWithKing](https://twitter.com/BuildsWithKing)
 
 ---
